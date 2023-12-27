@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Code\C#\Hello_world\bin\Debug\net8.0\Hello_world.exe
+C:\Users\Admin\Documents\Code\C#\Hello_world\bin\Debug\net8.0\Hello_world.deps.json
+C:\Users\Admin\Documents\Code\C#\Hello_world\bin\Debug\net8.0\Hello_world.runtimeconfig.json
+C:\Users\Admin\Documents\Code\C#\Hello_world\bin\Debug\net8.0\Hello_world.dll
+C:\Users\Admin\Documents\Code\C#\Hello_world\bin\Debug\net8.0\Hello_world.pdb
+C:\Users\Admin\Documents\Code\C#\Hello_world\obj\Debug\net8.0\Hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Code\C#\Hello_world\obj\Debug\net8.0\Hello_world.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Code\C#\Hello_world\obj\Debug\net8.0\Hello_world.AssemblyInfo.cs
+C:\Users\Admin\Documents\Code\C#\Hello_world\obj\Debug\net8.0\Hello_world.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Code\C#\Hello_world\obj\Debug\net8.0\Hello_world.dll
+C:\Users\Admin\Documents\Code\C#\Hello_world\obj\Debug\net8.0\refint\Hello_world.dll
+C:\Users\Admin\Documents\Code\C#\Hello_world\obj\Debug\net8.0\Hello_world.pdb
+C:\Users\Admin\Documents\Code\C#\Hello_world\obj\Debug\net8.0\Hello_world.genruntimeconfig.cache
+C:\Users\Admin\Documents\Code\C#\Hello_world\obj\Debug\net8.0\ref\Hello_world.dll

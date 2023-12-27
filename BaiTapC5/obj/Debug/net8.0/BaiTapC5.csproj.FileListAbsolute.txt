@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\bin\Debug\net8.0\BaiTapC5.exe
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\bin\Debug\net8.0\BaiTapC5.deps.json
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\bin\Debug\net8.0\BaiTapC5.runtimeconfig.json
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\bin\Debug\net8.0\BaiTapC5.dll
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\bin\Debug\net8.0\BaiTapC5.pdb
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\obj\Debug\net8.0\BaiTapC5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\obj\Debug\net8.0\BaiTapC5.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\obj\Debug\net8.0\BaiTapC5.AssemblyInfo.cs
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\obj\Debug\net8.0\BaiTapC5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\obj\Debug\net8.0\BaiTapC5.dll
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\obj\Debug\net8.0\refint\BaiTapC5.dll
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\obj\Debug\net8.0\BaiTapC5.pdb
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\obj\Debug\net8.0\BaiTapC5.genruntimeconfig.cache
+C:\Users\Admin\Documents\Code\C#\BaiTapC5\obj\Debug\net8.0\ref\BaiTapC5.dll

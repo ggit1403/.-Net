@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\bin\Debug\net8.0\bai_tap_th2.exe
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\bin\Debug\net8.0\bai_tap_th2.deps.json
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\bin\Debug\net8.0\bai_tap_th2.runtimeconfig.json
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\bin\Debug\net8.0\bai_tap_th2.dll
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\bin\Debug\net8.0\bai_tap_th2.pdb
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\obj\Debug\net8.0\bai_tap_th2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\obj\Debug\net8.0\bai_tap_th2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\obj\Debug\net8.0\bai_tap_th2.AssemblyInfo.cs
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\obj\Debug\net8.0\bai_tap_th2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\obj\Debug\net8.0\bai_tap_th2.dll
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\obj\Debug\net8.0\refint\bai_tap_th2.dll
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\obj\Debug\net8.0\bai_tap_th2.pdb
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\obj\Debug\net8.0\bai_tap_th2.genruntimeconfig.cache
+C:\Users\Admin\Documents\Code\C#\bai_tap_th2\obj\Debug\net8.0\ref\bai_tap_th2.dll
