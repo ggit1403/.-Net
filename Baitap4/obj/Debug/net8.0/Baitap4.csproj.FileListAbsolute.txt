@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\Code\C#\Baitap4\obj\Debug\net8.0\refint\Baitap4.dll
 C:\Users\Admin\Documents\Code\C#\Baitap4\obj\Debug\net8.0\Baitap4.pdb
 C:\Users\Admin\Documents\Code\C#\Baitap4\obj\Debug\net8.0\Baitap4.genruntimeconfig.cache
 C:\Users\Admin\Documents\Code\C#\Baitap4\obj\Debug\net8.0\ref\Baitap4.dll
+C:\Users\Admin\Documents\Code\C#\Baitap4\obj\Debug\net8.0\Baitap4.sourcelink.json

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\Code\\C#\\BaiTapC5\\BaiTapC5.csproj",
-      "projectName": "BaiTapC5",
-      "projectPath": "C:\\Users\\Admin\\Documents\\Code\\C#\\BaiTapC5\\BaiTapC5.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\Code\\C#\\BaiTapC5\\BaiTapC5_bai1.csproj",
+      "projectName": "BaiTapC5_bai1",
+      "projectPath": "C:\\Users\\Admin\\Documents\\Code\\C#\\BaiTapC5\\BaiTapC5_bai1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\Documents\\Code\\C#\\BaiTapC5\\obj\\",
       "projectStyle": "PackageReference",
