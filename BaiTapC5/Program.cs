@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.ComponentModel.DataAnnotations;
+using System.Runtime.CompilerServices;
 using System.Security.Cryptography;
 using System.Xml;
 
@@ -267,12 +268,18 @@ class Program
     static void Bai4()
     {
         ListBook book = new ListBook();
-        Book b1= new Book("Sach Toan", "Tac gia Toan", 12.5);
+        Console.WriteLine("Nhap vao so quyen sach: ");
+        int n = int.Parse(Console.ReadLine());
+        List<Book> books = new List<Book>(n);
+        /*Book b1= new Book("Sach Toan", "Tac gia Toan", 12.5);
         Book b2 = new Book();
         Book b3 = new Book();
         book.ThemSach(b1);
         book.ThemSach(b2);
-        book.ThemSach(b3);
+        book.ThemSach(b3);*/
+        
+            Book books[] = new Book();
+        
         Console.WriteLine("Thong tin cac sach: ");
         book.DSsach();
         book.XoaSach();
